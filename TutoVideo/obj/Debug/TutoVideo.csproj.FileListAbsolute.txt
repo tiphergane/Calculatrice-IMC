@@ -1,0 +1,14 @@
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\bin\Debug\TutoVideo.exe.config
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\bin\Debug\TutoVideo.exe
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\bin\Debug\TutoVideo.pdb
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\obj\Debug\TutoVideo.csprojResolveAssemblyReference.cache
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\obj\Debug\MainWindow.g.cs
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\obj\Debug\App.g.cs
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\obj\Debug\TutoVideo_MarkupCompile.cache
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\obj\Debug\TutoVideo_MarkupCompile.lref
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\obj\Debug\MainWindow.baml
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\obj\Debug\TutoVideo.g.resources
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\obj\Debug\TutoVideo.Properties.Resources.resources
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\obj\Debug\TutoVideo.csproj.GenerateResource.Cache
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\obj\Debug\TutoVideo.exe
+f:\documents\visual studio 2017\Projects\TutoVideo\TutoVideo\obj\Debug\TutoVideo.pdb
