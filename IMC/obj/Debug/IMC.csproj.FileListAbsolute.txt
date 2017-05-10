@@ -1,0 +1,14 @@
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\bin\Debug\IMC.exe.config
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\bin\Debug\IMC.exe
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\bin\Debug\IMC.pdb
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\obj\Debug\IMC.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\obj\Debug\MainWindow.g.cs
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\obj\Debug\App.g.cs
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\obj\Debug\IMC_MarkupCompile.cache
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\obj\Debug\IMC_MarkupCompile.lref
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\obj\Debug\MainWindow.baml
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\obj\Debug\IMC.g.resources
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\obj\Debug\IMC.exe
+F:\Documents\Visual Studio 2017\Projects\IMC\IMC\obj\Debug\IMC.pdb
